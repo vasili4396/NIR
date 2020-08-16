@@ -1,0 +1,2090 @@
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6840) (preloaded format=xelatex 2018.12.7)  15 AUG 2020 21:06
+entering extended mode
+**/Users/vasiliy/Desktop/NIR/main.tex
+(/Users/vasiliy/Desktop/NIR/main.tex
+LaTeX2e <2018-04-01> patch level 5
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ex
+tsizes/extarticle.cls"
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ex
+tsizes/size14.clo"
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ba
+se/exscale.sty"
+Package: exscale 2014/09/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen102
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+) (preamble.tex
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fo
+ntspec/fontspec.sty"
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3
+packages/xparse/xparse.sty"
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3
+kernel/expl3.sty"
+Package: expl3 2018-11-19 L3 programming layer (loader) 
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3
+kernel/expl3-code.tex"
+Package: expl3 2018-11-19 L3 programming layer (code)
+\c_max_int=\count88
+\l_tmpa_int=\count89
+\l_tmpb_int=\count90
+\g_tmpa_int=\count91
+\g_tmpb_int=\count92
+\g__kernel_prg_map_int=\count93
+\c_log_iow=\count94
+\l_iow_line_count_int=\count95
+\l__iow_line_target_int=\count96
+\l__iow_one_indent_int=\count97
+\l__iow_indent_int=\count98
+\c_zero_dim=\dimen104
+\c_max_dim=\dimen105
+\l_tmpa_dim=\dimen106
+\l_tmpb_dim=\dimen107
+\g_tmpa_dim=\dimen108
+\g_tmpb_dim=\dimen109
+\c_zero_skip=\skip43
+\c_max_skip=\skip44
+\l_tmpa_skip=\skip45
+\l_tmpb_skip=\skip46
+\g_tmpa_skip=\skip47
+\g_tmpb_skip=\skip48
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+\l_keys_choice_int=\count99
+\l__intarray_loop_int=\count100
+\c__intarray_sp_dim=\dimen110
+\g__intarray_font_int=\count101
+\c__fp_leading_shift_int=\count102
+\c__fp_middle_shift_int=\count103
+\c__fp_trailing_shift_int=\count104
+\c__fp_big_leading_shift_int=\count105
+\c__fp_big_middle_shift_int=\count106
+\c__fp_big_trailing_shift_int=\count107
+\c__fp_Bigg_leading_shift_int=\count108
+\c__fp_Bigg_middle_shift_int=\count109
+\c__fp_Bigg_trailing_shift_int=\count110
+\g__fp_array_int=\count111
+\l__fp_array_loop_int=\count112
+\l__sort_length_int=\count113
+\l__sort_min_int=\count114
+\l__sort_top_int=\count115
+\l__sort_max_int=\count116
+\l__sort_true_max_int=\count117
+\l__sort_block_int=\count118
+\l__sort_begin_int=\count119
+\l__sort_end_int=\count120
+\l__sort_A_int=\count121
+\l__sort_B_int=\count122
+\l__sort_C_int=\count123
+\l__tl_analysis_normal_int=\count124
+\l__tl_analysis_index_int=\count125
+\l__tl_analysis_nesting_int=\count126
+\l__tl_analysis_type_int=\count127
+\l__regex_internal_a_int=\count128
+\l__regex_internal_b_int=\count129
+\l__regex_internal_c_int=\count130
+\l__regex_balance_int=\count131
+\l__regex_group_level_int=\count132
+\l__regex_mode_int=\count133
+\c__regex_cs_in_class_mode_int=\count134
+\c__regex_cs_mode_int=\count135
+\l__regex_catcodes_int=\count136
+\l__regex_default_catcodes_int=\count137
+\c__regex_catcode_L_int=\count138
+\c__regex_catcode_O_int=\count139
+\c__regex_catcode_A_int=\count140
+\c__regex_all_catcodes_int=\count141
+\l__regex_show_lines_int=\count142
+\l__regex_min_state_int=\count143
+\l__regex_max_state_int=\count144
+\l__regex_left_state_int=\count145
+\l__regex_right_state_int=\count146
+\l__regex_capturing_group_int=\count147
+\l__regex_min_pos_int=\count148
+\l__regex_max_pos_int=\count149
+\l__regex_curr_pos_int=\count150
+\l__regex_start_pos_int=\count151
+\l__regex_success_pos_int=\count152
+\l__regex_curr_char_int=\count153
+\l__regex_curr_catcode_int=\count154
+\l__regex_last_char_int=\count155
+\l__regex_case_changed_char_int=\count156
+\l__regex_curr_state_int=\count157
+\l__regex_step_int=\count158
+\l__regex_min_active_int=\count159
+\l__regex_max_active_int=\count160
+\l__regex_replacement_csnames_int=\count161
+\l__regex_match_count_int=\count162
+\l__regex_min_submatch_int=\count163
+\l__regex_submatch_int=\count164
+\l__regex_zeroth_submatch_int=\count165
+\g__regex_trace_regex_int=\count166
+\c_empty_box=\box26
+\l_tmpa_box=\box27
+\l_tmpb_box=\box28
+\g_tmpa_box=\box29
+\g_tmpb_box=\box30
+\l__box_top_dim=\dimen111
+\l__box_bottom_dim=\dimen112
+\l__box_left_dim=\dimen113
+\l__box_right_dim=\dimen114
+\l__box_top_new_dim=\dimen115
+\l__box_bottom_new_dim=\dimen116
+\l__box_left_new_dim=\dimen117
+\l__box_right_new_dim=\dimen118
+\l__box_internal_box=\box31
+\l__coffin_internal_box=\box32
+\l__coffin_internal_dim=\dimen119
+\l__coffin_offset_x_dim=\dimen120
+\l__coffin_offset_y_dim=\dimen121
+\l__coffin_x_dim=\dimen122
+\l__coffin_y_dim=\dimen123
+\l__coffin_x_prime_dim=\dimen124
+\l__coffin_y_prime_dim=\dimen125
+\c_empty_coffin=\box33
+\l__coffin_aligned_coffin=\box34
+\l__coffin_aligned_internal_coffin=\box35
+\l_tmpa_coffin=\box36
+\l_tmpb_coffin=\box37
+\l__coffin_display_coffin=\box38
+\l__coffin_display_coord_coffin=\box39
+\l__coffin_display_pole_coffin=\box40
+\l__coffin_display_offset_dim=\dimen126
+\l__coffin_display_x_dim=\dimen127
+\l__coffin_display_y_dim=\dimen128
+\g__file_internal_ior=\read1
+\l__coffin_bounding_shift_dim=\dimen129
+\l__coffin_left_corner_dim=\dimen130
+\l__coffin_right_corner_dim=\dimen131
+\l__coffin_bottom_corner_dim=\dimen132
+\l__coffin_top_corner_dim=\dimen133
+\l__coffin_scaled_total_height_dim=\dimen134
+\l__coffin_scaled_width_dim=\dimen135
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3
+kernel/l3xdvipdfmx.def"
+File: l3xdvidpfmx.def 2018-11-19 v L3 Experimental driver: xdvipdfmx
+\g__driver_image_int=\count167
+\g__driver_pdf_object_int=\count168
+))
+Package: xparse 2018-10-17 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count169
+\g__xparse_grabber_int=\count170
+\l__xparse_m_args_int=\count171
+\l__xparse_mandatory_args_int=\count172
+\l__xparse_v_nesting_int=\count173
+)
+Package: fontspec 2018/07/30 vv2.6h Font selection for XeLaTeX and LuaLaTeX
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fo
+ntspec/fontspec-xetex.sty"
+Package: fontspec-xetex 2018/07/30 vv2.6h Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count174
+\l__fontspec_language_int=\count175
+\l__fontspec_strnum_int=\count176
+\l__fontspec_tmp_int=\count177
+\l__fontspec_em_int=\count178
+\l__fontspec_emdef_int=\count179
+\l__fontspec_strong_int=\count180
+\l__fontspec_strongdef_int=\count181
+\l__fontspec_tmpa_dim=\dimen136
+\l__fontspec_tmpb_dim=\dimen137
+\l__fontspec_tmpc_dim=\dimen138
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ba
+se/fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ba
+se/tuenc.def"
+File: tuenc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
+))
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fo
+ntspec/fontspec.cfg")
+LaTeX Info: Redefining \itshape on input line 3910.
+LaTeX Info: Redefining \slshape on input line 3915.
+LaTeX Info: Redefining \scshape on input line 3920.
+LaTeX Info: Redefining \upshape on input line 3925.
+LaTeX Info: Redefining \em on input line 3955.
+LaTeX Info: Redefining \emph on input line 3980.
+LaTeX Info: Redefining \- on input line 4034.
+))
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/xelatex/
+xunicode/xunicode.sty"
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
+other characters in Unicode lower plane
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ti
+pa/t3enc.def"
+File: t3enc.def 2001/12/31 T3 encoding
+)
+\tipaTiiicode=\count182
+\tipasavetokens=\toks14
+\tipachecktokens=\toks15
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gr
+aphics/graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gr
+aphics/keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gr
+aphics/graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gr
+aphics/trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gr
+aphics-cfg/graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 99.
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gr
+aphics-def/xetex.def"
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+))
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xl
+txtra/xltxtra.sty"
+Package: xltxtra 2016/01/21 v0.6 Improvements for the "XeLaTeX" format
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+ifxetex/ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/re
+alscripts/realscripts.sty"
+Package: realscripts 2016/02/13 v0.3d Access OpenType subscripts and superscrip
+ts
+\subsupersep=\dimen141
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/me
+talogo/metalogo.sty"
+Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
+\xl@everylogo=\toks17
+\xl@@everylogo=\toks18
+LaTeX Info: Redefining \TeX on input line 193.
+LaTeX Info: Redefining \LaTeX on input line 202.
+LaTeX Info: Redefining \LaTeXe on input line 219.
+)
+\l__xetex_show_hyphens_wrapping_box=\box41
+\l__xetex_show_hyphens_temp_box=\box42
+\l__xetex_show_hyphens_final_box=\box43
+\g__xetex_show_hyphens_word_box=\box44
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pd
+fpages/pdfpages.sty"
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ba
+se/ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/to
+ols/calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count183
+\calc@Bcount=\count184
+\calc@Adimen=\dimen142
+\calc@Bdimen=\dimen143
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count185
+\calc@Cskip=\skip51
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/es
+o-pic/eso-pic.sty"
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/atbegshi.sty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+))
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xc
+olor/xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gr
+aphics-cfg/color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+\AM@pagewidth=\dimen144
+\AM@pageheight=\dimen145
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pd
+fpages/ppxetex.def"
+File: ppxetex.def 2017/10/31 v0.5l Pdfpages driver for XeTeX (AM)
+)
+\AM@pagebox=\box45
+\AM@global@opts=\toks19
+\AM@toc@title=\toks20
+\c@AM@survey=\count186
+\AM@templatesizebox=\box46
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ci
+te/cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cs
+quotes/csquotes.sty"
+Package: csquotes 2018/04/13 v5.2d context-sensitive quotations (JAW)
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/et
+oolbox/etoolbox.sty"
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count187
+)
+\csq@reset=\count188
+\csq@gtype=\count189
+\csq@glevel=\count190
+\csq@qlevel=\count191
+\csq@maxlvl=\count192
+\csq@tshold=\count193
+\csq@ltx@everypar=\toks21
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cs
+quotes/csquotes.def"
+File: csquotes.def 2018/04/13 v5.2d csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cs
+quotes/csquotes.cfg"
+File: csquotes.cfg 
+))
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/li
+stings/listings.sty"
+\lst@mode=\count194
+\lst@gtempboxa=\box47
+\lst@token=\toks22
+\lst@length=\count195
+\lst@currlwidth=\dimen146
+\lst@column=\count196
+\lst@pos=\count197
+\lst@lostspace=\dimen147
+\lst@width=\dimen148
+\lst@newlines=\count198
+\lst@lineno=\count199
+\lst@maxwidth=\dimen149
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/li
+stings/lstmisc.sty"
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+\c@lstnumber=\count266
+\lst@skipnumbers=\count267
+\lst@framebox=\box48
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/li
+stings/listings.cfg"
+File: listings.cfg 2018/09/02 1.7 listings configuration
+))
+Package: listings 2018/09/02 1.7 (Carsten Heinz)
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/to
+donotes/todonotes.sty"
+Package: todonotes 2018/11/22 v1.1.1 Todonotes source and documentation.
+Package: todonotes 2018/11/22
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xk
+eyval/xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+xkeyval/xkeyval.tex"
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+xkeyval/xkvutils.tex"
+\XKV@toks=\toks23
+\XKV@tempa@toks=\toks24
+)
+\XKV@depth=\count268
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pg
+f/frontendlayer/tikz.sty"
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pg
+f/basiclayer/pgf.sty"
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pg
+f/utilities/pgfrcs.sty"
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/utilities/pgfutil-common.tex"
+\pgfutil@everybye=\toks25
+\pgfutil@tempdima=\dimen150
+\pgfutil@tempdimb=\dimen151
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/utilities/pgfutil-common-lists.tex"))
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/utilities/pgfutil-latex.def"
+\pgfutil@abb=\box49
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ms
+/everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/utilities/pgfrcs.code.tex"
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pg
+f/basiclayer/pgfcore.sty"
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pg
+f/systemlayer/pgfsys.sty"
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/systemlayer/pgfsys.code.tex"
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/utilities/pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks26
+\pgfkeys@temptoks=\toks27
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/utilities/pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks28
+))
+\pgf@x=\dimen152
+\pgf@y=\dimen153
+\pgf@xa=\dimen154
+\pgf@ya=\dimen155
+\pgf@xb=\dimen156
+\pgf@yb=\dimen157
+\pgf@xc=\dimen158
+\pgf@yc=\dimen159
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count269
+\c@pgf@countb=\count270
+\c@pgf@countc=\count271
+\c@pgf@countd=\count272
+\t@pgf@toka=\toks29
+\t@pgf@tokb=\toks30
+\t@pgf@tokc=\toks31
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/systemlayer/pgf.cfg"
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/systemlayer/pgfsys-xetex.def"
+File: pgfsys-xetex.def 2014/07/09  (rcs-revision 1.11)
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/systemlayer/pgfsys-dvipdfmx.def"
+File: pgfsys-dvipdfmx.def 2014/07/09  (rcs-revision 1.14)
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/systemlayer/pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)
+\pgfsys@objnum=\count273
+)))
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/systemlayer/pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count274
+\pgfsyssoftpath@bigbuffer@items=\count275
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/systemlayer/pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/basiclayer/pgfcore.code.tex"
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/math/pgfmath.code.tex"
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/math/pgfmathcalc.code.tex"
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/math/pgfmathutil.code.tex")
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/math/pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen160
+\pgfmath@count=\count276
+\pgfmath@box=\box50
+\pgfmath@toks=\toks32
+\pgfmath@stack@operand=\toks33
+\pgfmath@stack@operation=\toks34
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/math/pgfmathfunctions.code.tex"
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/math/pgfmathfunctions.basic.code.tex")
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/math/pgfmathfunctions.trigonometric.code.tex")
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/math/pgfmathfunctions.random.code.tex")
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/math/pgfmathfunctions.comparison.code.tex")
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/math/pgfmathfunctions.base.code.tex")
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/math/pgfmathfunctions.round.code.tex")
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/math/pgfmathfunctions.misc.code.tex")
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/math/pgfmathfunctions.integerarithmetics.code.tex")))
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/math/pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count277
+))
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/basiclayer/pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen161
+\pgf@picmaxx=\dimen162
+\pgf@picminy=\dimen163
+\pgf@picmaxy=\dimen164
+\pgf@pathminx=\dimen165
+\pgf@pathmaxx=\dimen166
+\pgf@pathminy=\dimen167
+\pgf@pathmaxy=\dimen168
+\pgf@xx=\dimen169
+\pgf@xy=\dimen170
+\pgf@yx=\dimen171
+\pgf@yy=\dimen172
+\pgf@zx=\dimen173
+\pgf@zy=\dimen174
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/basiclayer/pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen175
+\pgf@path@lasty=\dimen176
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/basiclayer/pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen177
+\pgf@shorten@start@additional=\dimen178
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/basiclayer/pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box51
+\pgf@hbox=\box52
+\pgf@layerbox@main=\box53
+\pgf@picture@serial@count=\count278
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/basiclayer/pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen179
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/basiclayer/pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen180
+\pgf@pt@y=\dimen181
+\pgf@pt@temp=\dimen182
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/basiclayer/pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/basiclayer/pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/basiclayer/pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/basiclayer/pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen183
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/basiclayer/pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen184
+\pgf@sys@shading@range@num=\count279
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/basiclayer/pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/basiclayer/pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box54
+))
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/basiclayer/pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/basiclayer/pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/basiclayer/pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/modules/pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box55
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/modules/pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pg
+f/compatibility/pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen185
+\pgf@nodesepend=\dimen186
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pg
+f/compatibility/pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pg
+f/utilities/pgffor.sty"
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pg
+f/utilities/pgfkeys.sty"
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/utilities/pgfkeys.code.tex"))
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pg
+f/math/pgfmath.sty"
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/math/pgfmath.code.tex"))
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/utilities/pgffor.code.tex"
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/math/pgfmath.code.tex")
+\pgffor@iter=\dimen187
+\pgffor@skip=\dimen188
+\pgffor@stack=\toks35
+\pgffor@toks=\toks36
+))
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/frontendlayer/tikz/tikz.code.tex"
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/libraries/pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count280
+\pgfplotmarksize=\dimen189
+)
+\tikz@lastx=\dimen190
+\tikz@lasty=\dimen191
+\tikz@lastxsaved=\dimen192
+\tikz@lastysaved=\dimen193
+\tikzleveldistance=\dimen194
+\tikzsiblingdistance=\dimen195
+\tikz@figbox=\box56
+\tikz@figbox@bg=\box57
+\tikz@tempbox=\box58
+\tikz@tempbox@bg=\box59
+\tikztreelevel=\count281
+\tikznumberofchildren=\count282
+\tikznumberofcurrentchild=\count283
+\tikz@fig@count=\count284
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/modules/pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count285
+\pgfmatrixcurrentcolumn=\count286
+\pgf@matrix@numberofcolumns=\count287
+)
+\tikz@expandcount=\count288
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/frontendlayer/tikz/libraries/tikzlibraryshadows.code.tex"
+File: tikzlibraryshadows.code.tex 2008/01/13 v3.0.1a (rcs-revision 1.3)
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex"
+File: tikzlibraryfadings.code.tex 2009/11/15 v3.0.1a (rcs-revision 1.2)
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/libraries/pgflibraryfadings.code.tex"
+File: pgflibraryfadings.code.tex 2008/02/07 v3.0.1a (rcs-revision 1.3)
+)))
+\c@@todonotes@numberoftodonotes=\count289
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ps
+tricks/pstricks.sty"
+Package: pstricks 2018/02/08 v0.68 LaTeX wrapper for `PSTricks' (RN,HV)
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/if
+tex/iftex.sty"
+Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
+and LuaTeX
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/to
+ols/shellesc.sty"
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+xkeyval/pst-xkey.tex"
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pstricks/pstricks.tex"
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pstricks/pst-fp.tex" `pst-fp' v0.05, 2010/01/17 (hv)
+\pstFP@xs=\count290
+\pstFP@xia=\count291
+\pstFP@xib=\count292
+\pstFP@xfa=\count293
+\pstFP@xfb=\count294
+\pstFP@rega=\count295
+\pstFP@regb=\count296
+\pstFP@regs=\count297
+\pstFP@times=\count298
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/utilities/pgfutil-common.tex"
+\pgfutil@everybye=\toks37
+\pgfutil@tempdima=\dimen196
+\pgfutil@tempdimb=\dimen197
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/utilities/pgfutil-common-lists.tex"))
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/utilities/pgfkeys.code.tex")
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/utilities/pgffor.code.tex"
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pgf/math/pgfmath.code.tex")
+\pgffor@iter=\dimen198
+\pgffor@skip=\dimen199
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
+)
+\psLoopIndex=\count299
+
+`PSTricks' v2.86a  <2018/11/14> (tvz,hv)
+\pst@dima=\dimen256
+\pst@dimb=\dimen257
+\pst@dimc=\dimen258
+\pst@dimd=\dimen259
+\pst@dimg=\dimen260
+\pst@dimh=\dimen261
+\pst@dimm=\dimen262
+\pst@dimn=\dimen263
+\pst@dimo=\dimen264
+\pst@dimp=\dimen265
+\pst@hbox=\box60
+\pst@ibox=\box61
+\pst@boxg=\box62
+\pst@cnta=\count300
+\pst@cntb=\count301
+\pst@cntc=\count302
+\pst@cntd=\count303
+\pst@cntg=\count304
+\pst@cnth=\count305
+\pst@cntm=\count306
+\pst@cntn=\count307
+\pst@cnto=\count308
+\pst@cntp=\count309
+\@zero=\count310
+\pst@toks=\toks40
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/xelatex/
+xetex-pstricks/pstricks.con"
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pstricks/xdvipdfmx.cfg"))
+\psunit=\dimen266
+\psxunit=\dimen267
+\psyunit=\dimen268
+\pst@C@@rType=\count311
+\pslinewidth=\dimen269
+\psk@startLW=\dimen270
+\psk@endLW=\dimen271
+\pst@customdefs=\toks41
+\pslinearc=\dimen272
+\pst@symbolStep=\dimen273
+\pst@symbolWidth=\dimen274
+\pst@symbolLinewidth=\dimen275
+\everypsbox=\toks42
+\psframesep=\dimen276
+\pslabelsep=\dimen277
+\sh@wgridXunit=\dimen278
+\sh@wgridYunit=\dimen279
+\pst@shift=\dimen280
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/xelatex/
+xetex-pstricks/pstricks.con"
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pstricks/xdvipdfmx.cfg"
+Using PSTricks configuration for XeTeX+xdvipdfmx
+)))
+File: pstricks.tex 2018/11/14 v2.86a `PSTricks' (tvz,hv)
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+pstricks/pst-fp.tex")
+File: pst-fp.tex 2018/11/14 v2.86a `PST-fp' (hv)
+)
+
+Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX,Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (bx/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+
+LaTeX Info: Redefining \rmfamily on input line 22.
+
+Package fontspec Info: Font family 'TimesNewRoman(1)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (bx/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/po
+lyglossia/polyglossia.sty"
+Package: polyglossia 2018/04/07 v1.43 Alternative to Babel for XeLaTeX and LuaL
+aTeX
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ma
+kecmds/makecmds.sty"
+Package: makecmds 2009/09/03 v1.0a extra command making commands
+)
+\xpg@normalclass=\XeTeXcharclass1
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/po
+lyglossia/gloss-russian.ldf"
+File: gloss-russian.ldf polyglossia: module for russian
+
+
+Package polyglossia Warning: No hyphenation patterns were loaded for `Russian'
+(polyglossia)                I will use \language=\l@nohyphenation instead on i
+nput line 11.
+
+\l@russian = a dialect from \language\l@nohyphenation 
+
+Package polyglossia Warning: \setlocalhyphenmin useless for unhyphenated langua
+ge russian on input line 11.
+
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/po
+lyglossia/babelsh.def"
+File: babelsh.def 2013/04/30 Babel common definitions for shorthands
+ Taken verbatim from babel.def (2013/04/15 v3.9e)
+)
+Package polyglossia Info: Making " an active character on input line 41.
+)
+Package polyglossia Info: Default language is russian.
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/am
+sfonts/amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/am
+sfonts/amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks43
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/am
+smath/amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/am
+smath/amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/am
+smath/amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks44
+\ex@=\dimen281
+))
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/am
+smath/amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen282
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/am
+smath/amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count312
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count313
+\leftroot@=\count314
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count315
+\DOTSCASE@=\count316
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box63
+\strutbox@=\box64
+\big@size=\dimen283
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count317
+\c@MaxMatrixCols=\count318
+\dotsspace@=\muskip16
+\c@parentequation=\count319
+\dspbrk@lvl=\count320
+\tag@help=\toks45
+\row@=\count321
+\column@=\count322
+\maxfields@=\count323
+\andhelp@=\toks46
+\eqnshift@=\dimen284
+\alignsep@=\dimen285
+\tagshift@=\dimen286
+\tagwidth@=\dimen287
+\totwidth@=\dimen288
+\lineht@=\dimen289
+\@envbody=\toks47
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks48
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/to
+ols/enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks49
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/to
+ols/indentfirst.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fl
+oat/float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count324
+\float@exts=\toks50
+\float@box=\box65
+\@float@everytoks=\toks51
+\@floatcapt=\box66
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mu
+ltirow/multirow.sty"
+Package: multirow 2018/08/03 v2.3 Span multiple rows of a table
+\multirow@colwidth=\skip55
+\multirow@cntb=\count325
+\multirow@dima=\skip56
+\bigstrutjot=\dimen290
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ch
+ngcntr/chngcntr.sty"
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hy
+perref/hyperref.sty"
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ob
+erdiek/auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ob
+erdiek/kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen291
+\Hy@linkcounter=\count326
+\Hy@pagecounter=\count327
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hy
+perref/pd1enc.def"
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count328
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00
+miktex/hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count329
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ur
+l/url.sty"
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen292
+\Fld@menulength=\count330
+\Field@Width=\dimen293
+\Fld@charsize=\dimen294
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count331
+\c@Item=\count332
+\c@Hfootnote=\count333
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hy
+perref/hxetex.def"
+File: hxetex.def 2018/11/30 v6.88e Hyperref driver for XeTeX
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hy
+perref/puenc.def"
+File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/stringenc.sty"
+Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box67
+\c@Hy@AnnotLevel=\count334
+\HyField@AnnotCount=\count335
+\Fld@listcount=\count336
+\c@bookmark@seq@number=\count337
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ob
+erdiek/rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip57
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 53.
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/se-ascii-print.def"
+File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
+
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ge
+ometry/geometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+\Gm@cnth=\count338
+\Gm@cntv=\count339
+\c@Gm@tempcnt=\count340
+\Gm@bindingoffset=\dimen295
+\Gm@wd@mp=\dimen296
+\Gm@odd@mp=\dimen297
+\Gm@even@mp=\dimen298
+\Gm@layoutwidth=\dimen299
+\Gm@layoutheight=\dimen300
+\Gm@layouthoffset=\dimen301
+\Gm@layoutvoffset=\dimen302
+\Gm@dimlist=\toks52
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/xelatex/
+xetexconfig/geometry.cfg"))
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/en
+umitem/enumitem.sty"
+Package: enumitem 2018/11/30 v3.6 Customized lists
+\labelindent=\skip58
+\enit@outerparindent=\dimen303
+\enit@toks=\toks53
+\enit@inbox=\box68
+\enitdp@description=\count341
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/to
+cloft/tocloft.sty"
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip59
+\cftbeforetoctitleskip=\skip60
+\cftaftertoctitleskip=\skip61
+\cftbeforepartskip=\skip62
+\cftpartnumwidth=\skip63
+\cftpartindent=\skip64
+\cftbeforesecskip=\skip65
+\cftsecindent=\skip66
+\cftsecnumwidth=\skip67
+\cftbeforesubsecskip=\skip68
+\cftsubsecindent=\skip69
+\cftsubsecnumwidth=\skip70
+\cftbeforesubsubsecskip=\skip71
+\cftsubsubsecindent=\skip72
+\cftsubsubsecnumwidth=\skip73
+\cftbeforeparaskip=\skip74
+\cftparaindent=\skip75
+\cftparanumwidth=\skip76
+\cftbeforesubparaskip=\skip77
+\cftsubparaindent=\skip78
+\cftsubparanumwidth=\skip79
+\cftbeforeloftitleskip=\skip80
+\cftafterloftitleskip=\skip81
+\cftbeforefigskip=\skip82
+\cftfigindent=\skip83
+\cftfignumwidth=\skip84
+\c@lofdepth=\count342
+\c@lotdepth=\count343
+\cftbeforelottitleskip=\skip85
+\cftafterlottitleskip=\skip86
+\cftbeforetabskip=\skip87
+\cfttabindent=\skip88
+\cfttabnumwidth=\skip89
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fa
+ncyhdr/fancyhdr.sty"
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip90
+\f@nch@O@elh=\skip91
+\f@nch@O@erh=\skip92
+\f@nch@O@olh=\skip93
+\f@nch@O@orh=\skip94
+\f@nch@O@elf=\skip95
+\f@nch@O@erf=\skip96
+\f@nch@O@olf=\skip97
+\f@nch@O@orf=\skip98
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ca
+ption/caption.sty"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ca
+ption/caption3.sty"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen304
+\captionmargin@=\dimen305
+\captionwidth=\dimen306
+\caption@tempdima=\dimen307
+\caption@indent=\dimen308
+\caption@parindent=\dimen309
+\caption@hangindent=\dimen310
+)
+\c@caption@flags=\count344
+\c@ContinuedFloat=\count345
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/te
+xtcase/textcase.sty"
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ti
+tlesec/titlesec.sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box69
+\beforetitleunit=\skip99
+\aftertitleunit=\skip100
+\ttl@plus=\dimen311
+\ttl@minus=\dimen312
+\ttl@toksa=\toks54
+\titlewidth=\dimen313
+\titlewidthlast=\dimen314
+\titlewidthfirst=\dimen315
+)
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ti
+tlesec/block.tss"
+File: block.tss 2016/03/15
+))
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'polyglossia' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'russian'.
+ (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 5.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 5.
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ti
+pa/t3cmr.fd"
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 5.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 5.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 5.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 5.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 5.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 5.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 5.
+LaTeX Font Info:    Redeclaring math accent \check on input line 5.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 5.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 5.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 5.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 5.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 5.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 5
+.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 5.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
+5.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
+input line 5.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
+ 5.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/bx/n on input line
+ 5.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 5.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 5.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/bx/n on
+ input line 5.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/bx/it on input li
+ne 5.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 5.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 5.
+\AtBeginShipoutBox=\box70
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ob
+erdiek/pdflscape.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gr
+aphics/lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 99.
+
+)
+\c@lstlisting=\count346
+ ABD: EveryShipout initializing macros
+
+Package todonotes Warning: The length marginparwidth is less than 2cm and will 
+most likely cause issues with the appearance of inserted todonotes. The issue c
+an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
+loading the todonotes package. on input line 5.
+
+Package hyperref Info: Link coloring ON on input line 5.
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hy
+perref/nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count347
+)
+LaTeX Info: Redefining \ref on input line 5.
+LaTeX Info: Redefining \pageref on input line 5.
+LaTeX Info: Redefining \nameref on input line 5.
+ (main.out) (main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 483.69687pt, 28.45274pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-54.36449pt
+* \headheight=17.0pt
+* \headsep=25.0pt
+* \topskip=14.0pt
+* \footskip=30.0pt
+* \marginparwidth=15.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+Package caption Info: We need package `newfloat' on input line 5.
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ca
+ption/newfloat.sty"
+Package: newfloat 2018/03/04 v1.1a Defining new floating environments (AR)
+Package newfloat Info: Unsupported document class, or \@chapter 
+(newfloat)             was already redefined by another package.
+Package newfloat Info: \@chapter = macro:[#1]#2->\NR@gettitle {#1}\NR@chapter [
+{#1}]{#2}.
+Package newfloat Info: \Hy@org@chapter = undefined.
+Package newfloat Info: Trying Plan B...
+) (inc/titlepage.tex [1
+
+]) (main.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/am
+sfonts/umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+
+("/Users/vasiliy/Library/Application Support/MiKTeX/texmfs/install/tex/latex/am
+sfonts/umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+ [1] (inc/0-terminology.tex [1
+
+]) (inc/1-postanovka-zadachi.tex
+Underfull \hbox (badness 1910) in paragraph at lines 3--7
+[]\TU/TimesNewRoman(1)/m/n/14.4 В наши дни ключевые носители, такие как смарт-к
+арты и токены,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--7
+\TU/TimesNewRoman(1)/m/n/14.4 распространены повсеместно и считаются безопасным
+и, защищенными
+ []
+
+
+Underfull \hbox (badness 2591) in paragraph at lines 3--7
+\TU/TimesNewRoman(1)/m/n/14.4 от взлома и заслуживающими доверия устройствами. 
+Они используются
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 3--7
+\TU/TimesNewRoman(1)/m/n/14.4 для выполнения конфиденциальных операций, таких к
+ак идентификация
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--7
+\TU/TimesNewRoman(1)/m/n/14.4 и аутентификация пользователей, а также для хране
+ния и обработки
+ []
+
+
+Underfull \hbox (badness 6691) in paragraph at lines 8--10
+\TU/TimesNewRoman(1)/m/n/14.4 несколькими свойствами, одно из которых заключает
+ся в обеспечении
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+\TU/TimesNewRoman(1)/m/n/14.4 возможности защищенного хранения криптографически
+х ключей с
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 11--18
+[]\TU/TimesNewRoman(1)/m/n/14.4 CCID, как стандарт интерфейса USB, является одн
+им из наиболее
+ []
+
+
+Underfull \hbox (badness 3088) in paragraph at lines 11--18
+\TU/TimesNewRoman(1)/m/n/14.4 предоставляют разработчикам возможность взаимодей
+ствовать со своими
+ []
+
+
+Underfull \hbox (badness 5696) in paragraph at lines 11--18
+\TU/TimesNewRoman(1)/m/n/14.4 устройствами посредсвом проприетарных команд. Тем
+ не менее, часто
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 11--18
+\TU/TimesNewRoman(1)/m/n/14.4 разобраться, что происходит в устройстве и какие 
+более низкоуровневые
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 11--18
+\TU/TimesNewRoman(1)/m/n/14.4 команды вызываются при определенных действиях раз
+работчика. К тому
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 11--18
+\TU/TimesNewRoman(1)/m/n/14.4 же, такой анализ позволит понять, насколько надеж
+но спроектирована и
+ []
+
+
+Underfull \hbox (badness 4084) in paragraph at lines 19--20
+[]\TU/TimesNewRoman(1)/m/n/14.4 Обследование проводится в рамках предпроектных 
+работ по теме
+ []
+
+
+Underfull \hbox (badness 6078) in paragraph at lines 19--20
+\TU/TimesNewRoman(1)/m/n/14.4 «Разработка стенда для анализа взаимодействия с а
+ппаратными CCID-
+ []
+
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+[]\TU/TimesNewRoman(1)/bx/n/14.4 Объектом обследования \TU/TimesNewRoman(1)/m/n
+/14.4 является процесс взаимодействия с
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+[]\TU/TimesNewRoman(1)/bx/n/14.4 Целью обследования \TU/TimesNewRoman(1)/m/n/14
+.4 является формирование требований для
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+\TU/TimesNewRoman(1)/m/n/14.4 реализации стенда, позволяющего провести анализ в
+заимодействия с
+ []
+
+[2]) (inc/2-predmetnaya-oblast.tex
+Underfull \hbox (badness 1983) in paragraph at lines 3--5
+\TU/TimesNewRoman(1)/m/n/14.4 предметной области, которая бы иллюстрировала все
+ сущности, а также
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 8--12
+\TU/TimesNewRoman(1)/m/n/14.4 зарубежного ISC/IEC 7816) [[][]3[][]]. Прикладной
+ протокол, описанный в этом
+ []
+
+
+Underfull \hbox (badness 1270) in paragraph at lines 31--35
+\TU/TimesNewRoman(1)/m/n/14.4 вышеуказанного ГОСТ. Байты P1 и P2 задают парамет
+ры команды, и их
+ []
+
+[3
+
+]
+Underfull \hbox (badness 1033) in paragraph at lines 36--39
+\TU/TimesNewRoman(1)/m/n/14.4 полезную нагрузку - данные, которые вернулись в о
+твет на вызов APDU
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 41--46
+\TU/TimesNewRoman(1)/m/n/14.4 программирования (API) для криптографических токе
+нов, которые хранят
+ []
+
+
+Underfull \hbox (badness 1270) in paragraph at lines 41--46
+\TU/TimesNewRoman(1)/m/n/14.4 персональные данные, криптографические ключи, сер
+тификаты, цифровые
+ []
+
+
+Underfull \hbox (badness 2050) in paragraph at lines 41--46
+\TU/TimesNewRoman(1)/m/n/14.4 подписи и биометрические данные [[][]5[][]]. API 
+оперирует с наиболее часто
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--51
+[]\TU/TimesNewRoman(1)/m/n/14.4 Некоторые вендоры токенов позволяют разработчик
+ам
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--51
+\TU/TimesNewRoman(1)/m/n/14.4 взаимодействовать со своими устройствами, предост
+авляя собственные
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 47--51
+\TU/TimesNewRoman(1)/m/n/14.4 показана на рис. 1: сначала вызывается функция из
+ библиотеки, которую
+ []
+
+File: images/apdu-pkcs.png Graphic file (type bmp)
+<images/apdu-pkcs.png>
+[4]
+Underfull \hbox (badness 2680) in paragraph at lines 65--67
+[]\TU/TimesNewRoman(1)/m/n/14.4 Тем не менее, стандрат также имеет и недостатки
+, которые стоит
+ []
+
+
+Underfull \hbox (badness 3657) in paragraph at lines 65--67
+\TU/TimesNewRoman(1)/m/n/14.4 полноценной поддержки стандарта операционными сис
+темами семейства
+ []
+
+
+Underfull \hbox (badness 2564) in paragraph at lines 65--67
+\TU/TimesNewRoman(1)/m/n/14.4 Windows и, как следствие, прикладным программным 
+обеспечением под
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--75
+[]\TU/TimesNewRoman(1)/m/n/14.4 Для работы с PKCS#11 API приложение инициирует 
+сеанс с
+ []
+
+
+Underfull \hbox (badness 5316) in paragraph at lines 68--75
+\TU/TimesNewRoman(1)/m/n/14.4 запущен вредоносный код, то PIN-код пользователя 
+может быть легко
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--75
+\TU/TimesNewRoman(1)/m/n/14.4 устройства, позволяя злоумышленнику инициировать 
+свои собственные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--75
+\TU/TimesNewRoman(1)/m/n/14.4 сеансы с устройством. Тем не менее, стандарт был 
+разработан для
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 68--75
+\TU/TimesNewRoman(1)/m/n/14.4 защиты конфиденциальных данных даже в тех случаях
+, если устройство
+ []
+
+
+Underfull \hbox (badness 4391) in paragraph at lines 68--75
+\TU/TimesNewRoman(1)/m/n/14.4 ключи, хранящиеся на устройстве, и которые не поз
+воляют читать их
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--79
+[]\TU/TimesNewRoman(1)/m/n/14.4 Несмотря на меры безопасности, предполагающие р
+аботу с
+ []
+
+
+Underfull \hbox (badness 4403) in paragraph at lines 76--79
+\TU/TimesNewRoman(1)/m/n/14.4 компрометированным хостом, существует описание ат
+ак, которые могут
+ []
+
+[5]
+Underfull \hbox (badness 2173) in paragraph at lines 82--85
+[]\TU/TimesNewRoman(1)/m/n/14.4 Поскольку основной задачей предпроектного иссле
+дования является
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 82--85
+\TU/TimesNewRoman(1)/m/n/14.4 инструментарий, с помощью которого анализ будет п
+роведен. А именно,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--91
+\TU/TimesNewRoman(1)/m/n/14.4 USB. Хост-контроллер отвечает за коммуникацию с п
+ериферийными
+ []
+
+
+Underfull \hbox (badness 1960) in paragraph at lines 86--91
+\TU/TimesNewRoman(1)/m/n/14.4 устройствами, а также за управление действиями, т
+акими как повторная
+ []
+
+
+Underfull \hbox (badness 8056) in paragraph at lines 86--91
+\TU/TimesNewRoman(1)/m/n/14.4 передача данных при ошибках. Контроль выполнения 
+таких действий
+ []
+
+
+Underfull \hbox (badness 5064) in paragraph at lines 94--95
+[]\TU/TimesNewRoman(1)/m/n/14.4 Независимости от хост-машины, на которой произв
+одится анализ,
+ []
+
+
+Underfull \hbox (badness 2435) in paragraph at lines 95--96
+[]\TU/TimesNewRoman(1)/m/n/14.4 Возможности отслеживать низкоуровненые состояни
+я шины USB и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
+[]\TU/TimesNewRoman(1)/m/n/14.4 Однако, большинство решений на рынке являются д
+овольно
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+[]\TU/TimesNewRoman(1)/m/n/14.4 Наиболее подходящие программные аналазиторами д
+ля решения
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--137
+[]\TU/TimesNewRoman(1)/m/n/14.4 Для разработки стенда необходимым аппаратным об
+еспечением
+ []
+
+
+Underfull \hbox (badness 1629) in paragraph at lines 133--137
+\TU/TimesNewRoman(1)/m/n/14.4 CCID-токенами, поэтому хостовой ОС на ЭВМ будет L
+inux Debian 10.5,
+ []
+
+
+Underfull \hbox (badness 5231) in paragraph at lines 133--137
+\TU/TimesNewRoman(1)/m/n/14.4 имеющая последнюю мажорную версию ядра Linux и по
+ддерживаемая
+ []
+
+File: images/general.png Graphic file (type bmp)
+<images/general.png>
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 147--152
+[]\TU/TimesNewRoman(1)/m/n/14.4 При работе с токенами, либо смарт-картами проис
+ходит обмен
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 147--152
+\TU/TimesNewRoman(1)/m/n/14.4 Такой обмен подвержден атакам типа ”человек посер
+едине”, что делает
+ []
+
+
+Underfull \hbox (badness 6708) in paragraph at lines 147--152
+\TU/TimesNewRoman(1)/m/n/14.4 и впоследствии было предложено множество инструме
+нтов. Например,
+ []
+
+[8]) (inc/3-vybor-obosnovanie-kriiteriev-kachestva.tex [9
+
+])
+(inc/4-analiz-analogov-i-prototipov.tex [10
+
+]) (inc/5-perechen-zadach.tex
+[11
+
+]) (inc/6-tz.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\uppercase' on input line 1.
+
+[12
+
+]) (inc/bibliography.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\uppercase' on input line 3.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--9
+[]\TU/TimesNewRoman(1)/m/n/14.4 Конявский В.А., Конявская С.В. Доверенные инфор
+мационные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--15
+[]\TU/TimesNewRoman(1)/m/n/14.4 Преимущества использования протокола CCID
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--15
+\TU/TimesNewRoman(1)/m/n/14.4 в аппаратных СЗИ [Электронный ресурс] URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+[]\TU/TimesNewRoman(1)/m/n/14.4 Смарт-карты. Часть 2. APDU [Электронный ресурс]
+ URL:
+ []
+
+
+Underfull \hbox (badness 1939) in paragraph at lines 23--27
+\TU/TimesNewRoman(1)/m/n/14.4 на интегральных схемах. Часть 4. Организация, защ
+ита и команды для
+ []
+
+
+Underfull \hbox (badness 2012) in paragraph at lines 29--33
+[]\TU/TimesNewRoman(1)/m/n/14.4 OASIS Enhances Popular Public-Key Cryptography 
+Standard, PKCS
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 29--33
+\TU/TimesNewRoman(1)/m/n/14.4 #11, for Mobile and Cloud [Электронный ресурс] UR
+L: https://www.oasis-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--33
+\TU/TimesNewRoman(1)/m/n/14.4 open.org/news/pr/oasis-enhances-popular-public-ke
+y-cryptography-standard-pkcs-
+ []
+
+
+Underfull \hbox (badness 3019) in paragraph at lines 35--39
+[]\TU/TimesNewRoman(1)/m/n/14.4 ESMART Список функций PKCS11 [Электронный ресур
+с] URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--45
+\TU/TimesNewRoman(1)/m/n/14.4 URL: https://dev.rutoken.ru/pages/viewpage.action
+?pageId=2228245 (дата
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--51
+[]\TU/TimesNewRoman(1)/m/n/14.4 JaCarta PKI [Электронный ресурс] URL: https://w
+ww.aladdin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--57
+[]\TU/TimesNewRoman(1)/m/n/14.4 Рекомендации по выбору высокоуровневого
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--57
+\TU/TimesNewRoman(1)/m/n/14.4 интерфейса. Стандарт PKCS#11 [Электронный ресурс]
+ URL:
+ []
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 53--57
+\TU/TimesNewRoman(1)/m/n/14.4 https://dev.rutoken.ru/pages/viewpage.action?page
+Id=2228227 (дата обращения
+ []
+
+[13
+
+]
+Overfull \hbox (151.53648pt too wide) in paragraph at lines 59--63
+\TU/TimesNewRoman(1)/m/n/14.4 URL: https://www.researchgate.net/publication/221
+609910_Attacking_and_fixing_PKCS11_security_tokens
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--69
+\TU/TimesNewRoman(1)/m/n/14.4 ресурс] URL: https://www.cryptsoft.com/pkcs11doc/
+STANDARD/pkcs-11v2-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--75
+[]\TU/TimesNewRoman(1)/m/n/14.4 Benefits of Using a Hardware USB Protocol Analy
+zer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--75
+\TU/TimesNewRoman(1)/m/n/14.4 over a Software-Only Solution [Электронный ресурс
+] URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--75
+\TU/TimesNewRoman(1)/m/n/14.4 https://www.totalphase.com/solutions/apps/usb-ana
+lyzer-benefits/ (дата
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--81
+\TU/TimesNewRoman(1)/m/n/14.4 URL: https://www.totalphase.com/solutions/apps/us
+b-analyzer-guide/ (дата
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--87
+[]\TU/TimesNewRoman(1)/m/n/14.4 USB Explorer 200 - Comparison chart [Электронны
+й ресурс]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--87
+\TU/TimesNewRoman(1)/m/n/14.4 URL: https://www.ellisys.com/products/usbex200/ch
+art.php (дата обращения
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--93
+[]\TU/TimesNewRoman(1)/m/n/14.4 Voyager M310P [Электронный ресурс] URL: http://
+lecroy-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--93
+\TU/TimesNewRoman(1)/m/n/14.4 rus.ru/catalog/serialdata/usb_3_0/voyager_m3x../v
+oyager_m310p/ (дата
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--99
+[]\TU/TimesNewRoman(1)/m/n/14.4 Free USB Analyzer Overview [Электронный ресурс]
+ URL:
+ []
+
+
+Underfull \hbox (badness 4303) in paragraph at lines 101--105
+[]\TU/TimesNewRoman(1)/m/n/14.4 CaptureSetup/USB - Wireshark Wiki [Электронный 
+ресурс] URL:
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 107--111
+[]\TU/TimesNewRoman(1)/m/n/14.4 The SmartLogic Tool: Analysing and Testing Smar
+t Card Protocols
+ []
+
+[14] [15])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 18.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 18.
+ (main.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 18.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 18.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: A70DE5E419664EA96DEADDE1E0181D97.
+ ) 
+Here is how much of TeX's memory you used:
+ 40826 strings out of 429714
+ 752832 string characters out of 3179359
+ 864340 words of memory out of 3000000
+ 44181 multiletter control sequences out of 15000+200000
+ 535417 words of font info for 51 fonts, out of 3000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 64i,12n,92p,886b,515s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on main.pdf (18 pages).

@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Постановка задачи}{}% 1
+\BOOKMARK [1][-]{section.2}{Описание предметной области}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{APDU}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{PKCS}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Анализаторы траффика CCID-токенов}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Компоненты системы}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Анализ уязвимостей при взаимодействии с CCID-токенами}{section.2}% 7
+\BOOKMARK [1][-]{section.3}{Выбор и обоснование критериев качества}{}% 8
+\BOOKMARK [1][-]{section.4}{Анализ аналогов и прототипов}{}% 9
+\BOOKMARK [1][-]{section.5}{Перечень задач, решаемых в процессе разработки}{}% 10
+\BOOKMARK [1][-]{section*.5}{Приложение 1. Техническое задание}{}% 11
+\BOOKMARK [1][-]{section*.6}{Библиографический список}{}% 12

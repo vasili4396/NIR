@@ -1,0 +1,15 @@
+\select@language {russian}
+\contentsline {section}{\numberline {1}Постановка задачи}{1}{section.1}
+\contentsline {section}{\numberline {2}Описание предметной области}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}APDU}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}PKCS}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Анализаторы траффика CCID-токенов}{6}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Компоненты системы}{7}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Анализ уязвимостей при взаимодействии с CCID-токенами}{8}{subsection.2.5}
+\contentsline {section}{\numberline {3}Выбор и обоснование критериев качества}{9}{section.3}
+\contentsline {section}{\numberline {4}Анализ аналогов и прототипов}{10}{section.4}
+\contentsline {section}{\numberline {5}Перечень задач, решаемых в процессе разработки}{11}{section.5}
+\contentsline {paragraph}{\hbox to\hsize {\hss {Приложение 1. Техническое задание}\hss }\vspace {1.5em}}{12}{section*.5}
+\contentsline {section}{\uppercase {Приложение 1. Техническое задание}}{12}{section*.5}
+\contentsline {paragraph}{\hbox to\hsize {\hss {Библиографический список}\hss }\vspace {1.5em}}{13}{section*.6}
+\contentsline {section}{\uppercase {Библиографический список}}{13}{section*.6}
